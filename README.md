@@ -1,16 +1,8 @@
 # intro_screen
 
-A new Flutter project.
+A simple introduction screen made with flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1679610545](https://user-images.githubusercontent.com/66890167/227379728-b9333450-7c24-4847-8a41-9a611bb7c73e.png)
+![Screenshot_1679610550](https://user-images.githubusercontent.com/66890167/227379730-9198df07-dd3a-4470-873b-191c79757729.png)
+![Screenshot_1679610554](https://user-images.githubusercontent.com/66890167/227379737-ddcf71ff-f5e5-4c5a-b20f-dea66dafa0b6.png)
+![Screenshot_1679610571](https://user-images.githubusercontent.com/66890167/227379740-4d05481e-2229-42e4-b2d5-9587e3e86f46.png)
